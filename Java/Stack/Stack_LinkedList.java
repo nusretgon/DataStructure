@@ -1,3 +1,3 @@
-public class Stack_LinkedList {
+public class Stack_LinkedList implements Stack_Interface{
 
 }
